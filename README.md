@@ -406,6 +406,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Arthur                | [Link](https://twitter.com/NAO42010/status/1218135203668848645?s=20)       |                                                        |
 | Arturia (Ruler)       | [Link](https://twitter.com/BOBislazyboy/status/1216730717448757248?s=20)   |                                                        |
 | Bedivere              | [Link](https://twitter.com/snowdroptree/status/1215930294458470400?s=20)   | Multi-Core with Gilgamesh, Gong                        |
+| Beowulf               | [Link](https://www.youtube.com/watch?v=w32m6cTCwUI)                        |                                                        |
 | Chacha                | [Link](https://twitter.com/snowdroptree/status/1217575565399486466?s=20)   |                                                        |
 | Chen Gong             | [Link](https://twitter.com/Chinkyu_pencil/status/1217572015608958976?s=20) |                                                        |
 |                       | [Link](https://twitter.com/2_5_dimension/status/1217434894478893063?s=20)  | Multi-Core Meme with Ishtar, Penth and Paris           |
@@ -454,6 +455,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Tamamo Cat            | [Link](https://twitter.com/shortcut588/status/1218377349885857792?s=20)    |                                                        |
 | Tesla                 | [Link](https://www.bilibili.com/video/av83778060)                          | NoCE                                                   |
 |                       | [Link](https://twitter.com/abiro_game/status/1216028085750919169?s=20)     | NoSwap                                                 |
+| Tomoe Gozen           | [Link](https://www.youtube.com/watch?v=FDlD_MsXdqM)                        |                                                        |
 | Yang Guifei           | [Link](https://twitter.com/bikakindefgo/status/1217435638225489920?s=20)   |                                                        |
 
 ### Yang CQ Enmatei Event Rerun
